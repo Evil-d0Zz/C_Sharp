@@ -1,0 +1,13 @@
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.csprojAssemblyReference.cache
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.AssemblyInfoInputs.cache
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.AssemblyInfo.cs
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.csproj.CoreCompileInputs.cache
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa.deps.json
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa.runtimeconfig.json
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa.runtimeconfig.dev.json
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa.dll
+/home/D0Zz/Estudos/C#/perm_festa/bin/Debug/netcoreapp3.1/perm_festa.pdb
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.dll
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.pdb
+/home/D0Zz/Estudos/C#/perm_festa/obj/Debug/netcoreapp3.1/perm_festa.genruntimeconfig.cache

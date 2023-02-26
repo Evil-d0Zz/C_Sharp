@@ -1,0 +1,13 @@
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word.deps.json
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word.runtimeconfig.json
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word.runtimeconfig.dev.json
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word.dll
+/home/D0Zz/Estudos/C#/Hello_Word/bin/Debug/netcoreapp3.1/Hello_Word.pdb
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.csprojAssemblyReference.cache
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.AssemblyInfoInputs.cache
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.AssemblyInfo.cs
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.csproj.CoreCompileInputs.cache
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.dll
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.pdb
+/home/D0Zz/Estudos/C#/Hello_Word/obj/Debug/netcoreapp3.1/Hello_Word.genruntimeconfig.cache
